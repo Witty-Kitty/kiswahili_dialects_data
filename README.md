@@ -1,4 +1,4 @@
-# kiswahili_dialects_data
+# Kiswahili Dialects Data
 
 This folder contains text data collected for 10 dialects/variants of Kiswahili.
 The dialects and number of resources available for each are as shown in the table below.
