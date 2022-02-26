@@ -15,5 +15,4 @@ The dialects and number of resources available for each are as shown in the tabl
 | Kimvita |	2589 |	665 |
 | Kimakunduchi |	464 |	204 |
 | Kibajuni |	1510 |	566 |
-| :---        |    :----:   |          ---: |
 | TOTAL |	10,669 |	2,172 |
