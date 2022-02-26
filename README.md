@@ -7,7 +7,7 @@ The dialects and number of resources available for each are as shown in the tabl
 | :---        |    :----:   |          ---: |
 | Kiunguja |	904 |	206 |
 | Kitumbatu |	295 |	143 |
-| Kiswahili | Sanifu |	1413 |	- |
+| Kiswahili Sanifu |	1413 |	- |
 | Kiswahili cha Bara ya Tanzania |	932 |	205 |
 | Kiswahili cha Bara ya Kenya |	1311 |	- |
 | Kipemba |	475 |	183 |
